@@ -1,0 +1,3 @@
+[submodule "vendor/poco"]
+	path = vendor/poco
+	url = https://github.com/pocoproject/poco.git
